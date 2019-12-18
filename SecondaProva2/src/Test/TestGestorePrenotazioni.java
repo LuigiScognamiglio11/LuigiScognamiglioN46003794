@@ -20,15 +20,7 @@ public class TestGestorePrenotazioni {
 	public void tearDown() throws Exception {
 	}
 
-	@Test
-	public void testPrenotaStudente() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	public void testAnnullaPrenotazione() {
-		fail("Not yet implemented");
-	}
+	
 
 	@Test
 	public void test1VisualizzaPrenotazioniElencoVuoto() {
